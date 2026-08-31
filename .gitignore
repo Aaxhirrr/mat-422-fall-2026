@@ -1,0 +1,13 @@
+# local course material
+MAT_422_HWangFall2026.pdf
+**/MAT422_HW_Rubric.docx
+
+# notebook working files
+**/.ipynb_checkpoints/
+**/.qa/
+**/__pycache__/
+**/*.pyc
+HW1.2/HW1_2_linear_algebra.html
+HW1.2/build_notebook.py
+HW1.2/clean_notebook.py
+
