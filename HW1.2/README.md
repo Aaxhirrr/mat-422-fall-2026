@@ -9,4 +9,4 @@ This notebook covers:
 
 [view the notebook](HW1_2_linear_algebra.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/AASHIR/hw1-2/HW1.2/HW1_2_linear_algebra.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/main/HW1.2/HW1_2_linear_algebra.ipynb)
