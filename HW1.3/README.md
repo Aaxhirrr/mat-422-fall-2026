@@ -8,7 +8,7 @@ This notebook covers:
 
 [view the notebook](HW1_3_least_squares.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/AASHIR/hw1-3/HW1.3/HW1_3_least_squares.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/main/HW1.3/HW1_3_least_squares.ipynb)
 
 ## run it
 
