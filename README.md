@@ -6,3 +6,4 @@ Course work for MAT 422.
 
 - [homework 1.2](HW1.2/README.md)
 - [homework 1.3](HW1.3/README.md)
+- [homework 1.4](HW1.4/README.md)
