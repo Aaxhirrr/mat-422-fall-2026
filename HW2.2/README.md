@@ -17,4 +17,4 @@ Open the notebook in Colab and choose **Runtime > Run all**. It uses NumPy, Matp
 
 The examples use a fair die, a supplier/defect model, a binomial heads count, and uniform and normal distributions. Each section explains the math, calculates an example, and discusses what the results mean.
 
-All 12 code cells have saved outputs, including four plots, so the notebook can also be read on GitHub without running it.
+The notebook has 12 executed code cells, with saved results and four plots, so it can also be read on GitHub without running it.
