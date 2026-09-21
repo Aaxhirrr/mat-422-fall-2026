@@ -9,7 +9,7 @@ This notebook covers:
 
 [view the notebook](HW2_2_probability.ipynb)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/AASHIR/hw2-2/HW2.2/HW2_2_probability.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/main/HW2.2/HW2_2_probability.ipynb)
 
 ## run it
 
