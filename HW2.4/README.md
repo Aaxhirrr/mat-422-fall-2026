@@ -11,3 +11,5 @@ Maximum likelihood estimation for random samples and linear regression.
 Open the notebook in Colab and choose **Runtime > Run all**. It uses NumPy, Matplotlib, and SciPy, which are available in Colab. No downloads or input files are needed.
 
 The examples cover Bernoulli and normal MLEs, the difference between MLE and unbiased variance estimates, simple linear regression, residuals, and why normal-error MLE gives the least-squares line.
+
+The notebook contains 9 code cells, saved outputs, and three figures. All 11 checks at the end should print `True`.
