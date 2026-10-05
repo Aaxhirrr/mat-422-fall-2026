@@ -4,7 +4,7 @@ Maximum likelihood estimation for random samples and linear regression.
 
 [view the notebook](HW2_4_mle_regression.ipynb)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/AASHIR/hw2-4/HW2.4/HW2_4_mle_regression.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/main/HW2.4/HW2_4_mle_regression.ipynb)
 
 ## run it
 
