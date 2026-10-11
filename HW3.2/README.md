@@ -9,3 +9,7 @@ Limits and continuity, derivatives, and Taylor's theorem.
 ## run it
 
 Open the notebook in Colab and choose **Runtime > Run all**. NumPy and Matplotlib are the only external packages needed. No files or downloads are required.
+
+The notebook has 10 code cells with saved results and three figures. All 12 checks at the end should print `True`.
+
+Examples include a removable discontinuity, a path-dependent limit, numerical derivatives, a continuous function with a corner, gradients and directional derivatives, and one- and two-variable Taylor approximations with error checks.
