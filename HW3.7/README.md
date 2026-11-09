@@ -4,7 +4,7 @@ Artificial neural networks: mathematical formulation, activation functions, cost
 
 [view the notebook](HW3_7_neural_networks.ipynb)
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/AASHIR/hw3-7/HW3.7/HW3_7_neural_networks.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aaxhirrr/mat-422-fall-2026/blob/main/HW3.7/HW3_7_neural_networks.ipynb)
 
 Open in Colab and choose **Runtime > Run all**. The notebook uses only NumPy and Matplotlib, with four explicitly listed XOR inputs and fixed starting weights. There are no outside data files or package installs.
 
